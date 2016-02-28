@@ -6,6 +6,7 @@ import org.glassfish.jersey.server.spring.scope.RequestContextFilter;
 
 import com.xroads.filters.CORSResponseFilter;
 import com.xroads.filters.LoggingResponseFilter;
+import com.xroads.resource.LoginResource;
 
 /**
  * Registers the components to be used by the JAX-RS application  
